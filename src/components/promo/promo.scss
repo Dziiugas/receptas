@@ -1,0 +1,53 @@
+.text h1{
+    font-size: 64px;
+    position: relative;
+    top: 80px;
+}
+.text p {
+    position: relative;
+    top: 100px;
+    width: 400px;
+}
+.frame h3{
+    display: flex;
+    
+    padding: 30px 40px;
+justify-content: center;
+align-items: center;
+border-radius: 20px;
+background: #F79F1A;
+position: relative;
+top: 140px;
+color: white;
+}
+.img .g{
+    background-image: url(../img/Garlic.png);
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 600px;
+}
+.img .t{
+    background-image: url(../img/Tomato.png);
+    width: 50px;
+    height: 50px;
+    position: relative;
+    bottom: 460px;
+    left: 700px;
+}
+.img .b{
+    background-image: url(../img/Broccoli.png);
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 1200px;
+}
+.img .food{
+    background-image: url(../img/food.png);
+    width: 700px;
+    height: 700px;
+    position: relative;
+    bottom: 700px;
+    left: 600px;
+
+}
