@@ -1,3 +1,4 @@
+
 import './food.scss'
 const Food = () =>{
     return(
@@ -9,10 +10,6 @@ const Food = () =>{
                     <div className="search">
                         <h3>See all</h3>
                     </div>
-                    <form class="d-flex" role="search">
-        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search"></input>
-        <button class="btn btn-outline-success" type="submit">Search</button>
-      </form>
                     <div className="block d-flex col-sm-10">
                     <div className="potato">
                      <h4>Potato Soup</h4>
